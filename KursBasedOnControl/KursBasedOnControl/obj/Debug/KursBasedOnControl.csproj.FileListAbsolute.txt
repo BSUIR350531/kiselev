@@ -1,0 +1,12 @@
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\bin\Debug\KursBasedOnControl.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\bin\Debug\KursBasedOnControl.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\bin\Debug\KursBasedOnControl.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\bin\Debug\FastColoredTextBox.dll
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\bin\Debug\FastColoredTextBox.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\bin\Debug\FastColoredTextBox.xml
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\obj\Debug\KursBasedOnControl.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\obj\Debug\KursBasedOnControl.csproj.GenerateResource.Cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\obj\Debug\KursBasedOnControl.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\obj\Debug\KursBasedOnControl.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\obj\Debug\KursBasedOnControl.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\KursBasedOnControl\KursBasedOnControl\obj\Debug\KursBasedOnControl.Form1.resources

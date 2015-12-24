@@ -1,0 +1,12 @@
+D:\FastColoredTextBox-master\FastColoredTextBox\bin\Debug\FastColoredTextBox.XML
+D:\FastColoredTextBox-master\FastColoredTextBox\bin\Debug\FastColoredTextBox.dll
+D:\FastColoredTextBox-master\FastColoredTextBox\bin\Debug\FastColoredTextBox.pdb
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FastColoredTextBox.resources
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.FindForm.resources
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.GoToForm.resources
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.HotkeysEditorForm.resources
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBoxNS.ReplaceForm.resources
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBox.csproj.GenerateResource.Cache
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBox.dll
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBox.pdb
+D:\FastColoredTextBox-master\FastColoredTextBox\obj\Debug\FastColoredTextBox.csprojResolveAssemblyReference.cache
